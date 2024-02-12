@@ -1,7 +1,7 @@
 /*
 This is a simple Rock paper scissors game, to start press [Run] button above or below this box, if you wish to change settings follow instructions lower
 Go to any JavaScript runner website and paste all this code, JS website
-(https://bjohnson.lmu.build/cmsi185web/scriptrunner.html)
+https://bjohnson.lmu.build/cmsi185web/scriptrunner.html
 */
 
 /* If you want to play a few times, change value (9999) below to desired number*/
